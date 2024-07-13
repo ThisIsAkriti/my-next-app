@@ -1,0 +1,95 @@
+{
+    "data" : [
+        {
+        "id": 1,
+        "title": "Dumbbell Set",
+        "description": "A set of adjustable dumbbells for strength training.",
+        "price": 99.99,
+        "instructor": "John Smith",
+        "rating": 4.5,
+        "isFeatured": true
+        },
+        {
+        "id": 2,
+        "title": "Treadmill",
+        "description": "High-quality motorized treadmill for cardio workouts.",
+        "price": 799.0,
+        "instructor": "Emily Johnson",
+        "rating": 4.8,
+        "isFeatured": false
+        },
+        {
+        "id": 3,
+        "title": "Protein Powder",
+        "description": "Whey protein isolate for muscle recovery.",
+        "price": 29.99,
+        "instructor": "Alex Rodriguez",
+        "rating": 4.2,
+        "isFeatured": true
+        },
+        {
+        "id": 4,
+        "title": "Resistance Bands",
+        "description": "Set of elastic bands for strength and flexibility exercises.",
+        "price": 19.99,
+        "instructor": "Sarah Lee",
+        "rating": 4.6,
+        "isFeatured": true
+        },
+        {
+        "id": 5,
+        "title": "Yoga Mat",
+        "description": "Non-slip mat for yoga and stretching routines.",
+        "price": 24.95,
+        "instructor": "Michael Brown",
+        "rating": 4.3,
+        "isFeatured": false
+        },
+        {
+        "id": 6,
+        "title": "Weight Bench",
+        "description": "Adjustable weight bench for various strength exercises.",
+        "price": 149.0,
+        "instructor": "Laura Garcia",
+        "rating": 4.7,
+        "isFeatured": true
+        },
+        {
+        "id": 7,
+        "title": "Jump Rope",
+        "description": "Speed rope for cardiovascular workouts.",
+        "price": 9.99,
+        "instructor": "Chris Evans",
+        "rating": 4.4,
+        "isFeatured": false
+        },
+        {
+        "id": 8,
+        "title": "Kettlebell",
+        "description": "Cast iron kettlebell for functional strength training.",
+        "price": 39.95,
+        "instructor": "Sophia Patel",
+        "rating": 4.9,
+        "isFeatured": true
+        },
+        {
+        "id": 9,
+        "title": "Gym Gloves",
+        "description": "Padded gloves for weightlifting and protection.",
+        "price": 14.99,
+        "instructor": "David Lee",
+        "rating": 4.1,
+        "isFeatured": false
+        },
+        {
+        "id": 10,
+        "title": "Foam Roller",
+        "description": "Self-myofascial release tool for muscle recovery.",
+        "price": 19.95,
+        "instructor": "Emma White",
+        "rating": 4.5,
+        "isFeatured": true
+        }
+    ]
+}
+  
