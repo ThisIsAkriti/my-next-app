@@ -7,16 +7,22 @@
         "price": 99.99,
         "instructor": "John Smith",
         "rating": 4.5,
-        "isFeatured": true
+        "isFeatured": true,
+        "image":"https://images.unsplash.com/photo-1483721310020-03333e577078?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Outdoor group training",
+        "details": "For early morning bootcamp sessions in the park. Expect a mix of bodyweight exercises, sprints, and team challenges—all while enjoying fresh air and nature."
         },
         {
         "id": 2,
         "title": "Treadmill",
         "description": "High-quality motorized treadmill for cardio workouts.",
         "price": 799.0,
-        "instructor": "Emily Johnson",
+        "instructor": "Michael Brown",
         "rating": 4.8,
-        "isFeatured": false
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"    ,
+        "specialization": " Strength Training",
+        "details": "Michel is a certified personal trainer with over 10 years of experience. He focuses on helping clients build functional strength through compound movements and proper form."     
         },
         {
         "id": 3,
@@ -25,25 +31,34 @@
         "price": 29.99,
         "instructor": "Alex Rodriguez",
         "rating": 4.2,
-        "isFeatured": true
+        "isFeatured": true,
+        "image":"https://images.unsplash.com/photo-1549476464-37392f717541?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Barre Fitness",
+        "details": "Alex is a former dancer turned fitness instructor. Her barre classes combine ballet-inspired moves with strength training for a full-body workout."
         },
         {
         "id": 4,
         "title": "Resistance Bands",
         "description": "Set of elastic bands for strength and flexibility exercises.",
         "price": 19.99,
-        "instructor": "Sarah Lee",
+        "instructor": "David Lee",
         "rating": 4.6,
-        "isFeatured": true
+        "isFeatured": true,
+        "image":"https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Water-based workouts.",
+        "details": " He Leads invigorating aqua aerobics sessions in the pool. The buoyancy of water reduces impact on joints while providing resistance for a full-body workout."
         },
         {
         "id": 5,
         "title": "Yoga Mat",
         "description": "Non-slip mat for yoga and stretching routines.",
         "price": 24.95,
-        "instructor": "Michael Brown",
+        "instructor": "Emily Johnson",
         "rating": 4.3,
-        "isFeatured": false
+        "isFeatured": false,
+        "image":"https://images.unsplash.com/photo-1606902965551-dce093cda6e7?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Mindfulness Yoga",
+        "details": "Emily believes that yoga is not just about physical postures; it’s a journey inward. Her classes focus on breath awareness, alignment, and finding stillness within movement."
         },
         {
         "id": 6,
@@ -52,7 +67,10 @@
         "price": 149.0,
         "instructor": "Laura Garcia",
         "rating": 4.7,
-        "isFeatured": true
+        "isFeatured": true,
+        "image":"https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Dance-based workouts.",
+        "details": "Our energetic dance fitness instructor. Her classes fuse dance styles like hip-hop, salsa, and contemporary with cardio exercises. Get ready to groove and sweat!"
         },
         {
         "id": 7,
@@ -61,7 +79,10 @@
         "price": 9.99,
         "instructor": "Chris Evans",
         "rating": 4.4,
-        "isFeatured": false
+        "isFeatured": false,
+        "image":"https://images.unsplash.com/photo-1578924608828-79a71150f711?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Strength & Conditioning",
+        "details": "Instructor Chris Evans, has worked with professional athletes across various sports. His training programs emphasize functional strength, agility, and injury prevention."
         },
         {
         "id": 8,
@@ -70,16 +91,22 @@
         "price": 39.95,
         "instructor": "Sophia Patel",
         "rating": 4.9,
-        "isFeatured": true
+        "isFeatured": true,
+        "image":"https://images.unsplash.com/photo-1603698819488-03c6e857d280?q=80&w=1365&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Cardio Kickboxing",
+        "details": "Former competitive kickboxer. His high-energy classes combine cardio drills with kickboxing techniques, making workouts both challenging and fun."
         },
         {
         "id": 9,
         "title": "Gym Gloves",
         "description": "Padded gloves for weightlifting and protection.",
         "price": 14.99,
-        "instructor": "David Lee",
+        "instructor": "Sarah Lee",
         "rating": 4.1,
-        "isFeatured": false
+        "isFeatured": false,
+        "image":"https://images.unsplash.com/photo-1548690312-e3b507d8c110?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Spin Cycling",
+        "details": "An indoor cycling enthusiast. Her classes are all about pushing limits, sweating it out, and enjoying the rhythm of the music."
         },
         {
         "id": 10,
@@ -88,7 +115,10 @@
         "price": 19.95,
         "instructor": "Emma White",
         "rating": 4.5,
-        "isFeatured": true
+        "isFeatured": true,
+        "image":"https://images.unsplash.com/photo-1488228469209-c141f8bcd723?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "specialization": "Yoga and Flexibility",
+        "details": "Passionate yoga instructor who believes in the mind-body connection. Her classes emphasize flexibility, balance, and relaxation."
         }
     ]
 }

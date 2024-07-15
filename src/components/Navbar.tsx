@@ -13,20 +13,18 @@ const Navbar = ({ className }: { className?: string }) => {
     > 
         <Menu setActive={setActive}>
             <Link href={"/"}>
-                <MenuItem setActive={setActive} active={active} item="All Items">
+                <MenuItem setActive={setActive} active={active} item="Home">
                 
                 </MenuItem>
             </Link>
 
-            <MenuItem setActive={setActive} active={active} item="Instructors">
+            <MenuItem setActive={setActive} active={active} item="Services">
             <div className="flex flex-col space-y-4 text-sm">
-            <HoveredLink href="/data">Mr franco di</HoveredLink>
-            <HoveredLink href="/data">Alex Rodriguez</HoveredLink>
-            <HoveredLink href="/data">Sarah Lee</HoveredLink>
-            <HoveredLink href="/data">Laura Garcia</HoveredLink>
-            <HoveredLink href="/data">Chris Evans</HoveredLink>
-            <HoveredLink href="/data">Sophia Patel</HoveredLink>
-            <HoveredLink href="/data">Michael Brown</HoveredLink>
+            <Link href={"/instructors"}>Instructor
+            </Link>
+            <HoveredLink href={"/courses"}>Courses</HoveredLink>
+            <HoveredLink href="/About us">About us</HoveredLink>
+            
             </div>
             </MenuItem>
 

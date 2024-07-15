@@ -4,13 +4,13 @@ import React from 'react'
 import courseData from '../data/info_all.json';
 import { BackgroundGradient } from './ui/background-gradient';
 interface Data{
-    id: number,
-    title: string,
-    description: string
-    price: number,
-    instructor: string,
-    rating: number,
-    isFeatured: boolean
+  id: number,
+  title: string,
+  description: string
+  price: number,
+  instructor: string,
+  rating: number,
+  isFeatured: boolean
 }
 
 function Featured() {
