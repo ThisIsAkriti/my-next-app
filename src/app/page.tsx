@@ -1,4 +1,5 @@
 import Featured from "@/components/Featured";
+import FooterSection from "@/components/FooterSection";
 import HeroSection from "@/components/HeroSection";
 import Instructors from "@/components/Instructors";
 import Testimonials from "@/components/Testimonials";
@@ -14,6 +15,7 @@ export default function Home() {
     <Testimonials/>
     <Upcoming/>
     <Instructors/>
+    <FooterSection/>
     </main>
   );
 }
