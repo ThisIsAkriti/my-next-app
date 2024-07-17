@@ -1,0 +1,84 @@
+{
+    "dataCourse" : [
+    {
+      "id": 1,
+      "title": "Introduction to Strength Training",
+      "description": "Learn the basics of weightlifting, form, and muscle building.",
+      "instructor": "John Smith",
+      "duration": "6 weeks",
+      "price": 49.99
+    },
+    {
+       "id": 2,
+      "title": "Cardiovascular Fitness Bootcamp",
+      "description": "High-intensity cardio workouts for endurance and fat loss.",
+      "instructor":"Emily Johnson",
+      "duration": "4 weeks",
+      "price": 39.9
+    },
+    {
+      "id": 3,
+      "title": "Nutrition Essentials",
+      "description": "Understanding macronutrients, meal planning, and healthy eating.",
+      "instructor": "Dr. Sarah Lee",
+      "duration": "3 weeks",
+      "price": 29.99
+    },
+    {
+      "id": 4,
+      "title": "Yoga for Flexibility and Relaxation",
+      "description": "Gentle yoga poses to improve flexibility and reduce stress.",
+      "instructor": "Amit Patel",
+      "duration": "5 weeks",
+      "price": 34.99
+    },
+    {
+      "id": 5,
+      "title": "Functional Fitness for Everyday Life",
+      "description": "Practical exercises to enhance daily activities and prevent injuries.",
+      "instructor": "Michelle Brown",
+      "duration": "8 weeks",
+      "price": 54.99
+    },
+    {
+      "id": 6,
+      "title": "Advanced Weightlifting Techniques",
+      "description": "Master advanced lifts like squats, deadlifts, and bench press.",
+      "instructor": "Alex Rodriguez",
+      "duration": "7 weeks",
+      "price": 59.99
+    },
+    {
+      "id": 7,
+      "title": "Mindful Eating Workshop",
+      "description": "Develop a healthy relationship with food and mindful eating practices.",
+      "instructor": "Dr. Lisa Chen",
+      "duration": "2 weeks",
+      "price": 19.99
+    },
+    {
+      "id": 8,
+      "title": "HIIT (High-Intensity Interval Training)",
+      "description": "Short, intense workouts for fat burning and improved fitness.",
+      "instructor": "Ryan Clark",
+      "duration": "4 weeks",
+      "price": 44.99
+    },
+    {
+      "id": 9,
+      "title": "Sports Nutrition for Athletes",
+      "description": "Optimize performance through proper nutrition and hydration.",
+      "instructor": "Coach Mark Davis",
+      "duration": "6 weeks",
+      "price": 49.99
+    },
+    {
+      "id": 10,
+      "title": "Pilates Basics",
+      "description": "Core-strengthening exercises for posture and balance.",
+      "instructor": "Sophia Adams",
+      "duration": "3 weeks",
+      "price": 29.99
+    }
+]
+}

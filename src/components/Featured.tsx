@@ -15,7 +15,7 @@ interface Data{
 
 function Featured() {
     const featured = courseData.data.filter((data:Data) => data.isFeatured)
-  return (
+    return (
     <div className='py-12 bg-gray-900'>
       <div>
         <div className='text-center'>
