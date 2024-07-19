@@ -12,7 +12,7 @@ const HeroSection = () => {
       />
 
       <h1 className=" mt-20 md:mt-0 lg:text-6xl md:text-5xl   font-bold ">Unlock Your Fitness Potential</h1>
-      <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-ato text-center">FITPASS is your one-stop destination for complete wellness. Whether you're a fitness enthusiast, a beginner, or someone seeking a healthier lifestyle, FITPASS offers a comprehensive suite of services to cater to your unique needs.</p>
+      <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-ato text-center">FITPASS is your one-stop destination for complete wellness. Whether you are a fitness enthusiast, a beginner, or someone seeking a healthier lifestyle, FITPASS offers a comprehensive suite of services to cater to your unique needs.</p>
       <div className="mt-8">
         <Link href={'/data'}>
           <Button 

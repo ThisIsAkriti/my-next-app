@@ -1,9 +1,7 @@
 'use client'
 import React from "react";
 import { BentoGrid, BentoGridItem } from "@/components/ui/bento-grid";
-
-import { dataCourse } from "@/data/info_course.json"
-const courses = dataCourse;
+import dataCourse  from "@/data/info_course.json"
 
 interface Data{
     id : number,
@@ -15,9 +13,10 @@ interface Data{
 }
 function page() {
   return (
+
     <div className="mt-40">
        <BentoGrid className="max-w-4xl mx-auto">
-            {courses.map((course : Data ) => (
+            {dataCourse.data.map((course : Data ) => (
             <BentoGridItem
             key={course.id}
             title = {course.title}
@@ -31,8 +30,5 @@ function page() {
     </div>
   )
 }
-export const Skeleton = () => (
-  <div className=" flex flex-1 w-full h-full min-h-[6rem] rounded-xl bg-gradient-to-br  dark:from-neutral-900 dark:to-neutral-800 bg-neutral-900"></div>
-);
 
 export default page
