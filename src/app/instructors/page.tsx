@@ -3,7 +3,7 @@ import React from "react";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
 import courseData from "@/data/info_all.json"
 import Image from "next/image";
-const page = () => {
+function page(){
   return (
     <div>
       <div>

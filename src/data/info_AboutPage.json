@@ -1,0 +1,26 @@
+{
+    "aboutPageInfo" : [
+        {
+            "id":1,
+            "heading":"Welcome to FitLife Gym",
+            "description":"Welcome to FitLife Gym, where your health and fitness journey begins! At FitLife Gym, we believe in creating a supportive and motivating environment for everyone, regardless of their fitness level. Our mission is to help you achieve your health and fitness goals through personalized training, state-of-the-art facilities, and a community that inspires you to be your best self."
+        },
+        {
+            "id":2,
+            "heading":"Our Story",
+            "description":"Founded in 2020, FitLife Gym was born out of a passion for fitness and a desire to create a community where everyone feels welcome. Our founders, Jane and John Doe, envisioned a space where people of all fitness levels could come together to improve their physical and mental well-being."
+        },{
+            "id":3,
+            "heading":"Our Facilities",
+            "description":"At FitLife Gym, we pride ourselves on offering top-notch facilities to help you achieve your fitness goals. Our gym is equipped with the latest cardio machines, free weights, and strength training equipment to cater to all your workout needs. We also offer a variety of group fitness classes, including yoga, pilates, and high-intensity interval training (HIIT), led by experienced instructors. For those seeking personalized guidance, our certified personal trainers are here to create customized workout plans tailored to your individual goals. Additionally, our wellness programs provide nutrition counseling and workshops to support your overall health and well-being."
+        },{
+            "id":4,
+            "heading":"Our Community",
+            "description":"At FitLife Gym, we pride ourselves on fostering a sense of community. Our members are like family, and we support each other in every step of our fitness journeys. Whether you’re a beginner or a seasoned athlete, you’ll find a welcoming and encouraging atmosphere here."
+        },{
+            "id":5,
+            "heading":"Join Us",
+            "description":"Ready to take the first step towards a fitter life? Join FitLife Gym today and become a part of our vibrant community. Together, we can achieve greatness!"
+        }
+    ]
+}
