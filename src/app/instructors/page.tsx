@@ -8,7 +8,7 @@ function page(){
     <div className="bg-black pt-32">
       <div className="">
         <h1 className="text-4xl sm:text-5xl text-gray-300 font-semibold text-center">Best Instructors ({ courseData.data.length})</h1>
-        <div className="flex md:flex-wrap justify-center space-x-16">
+        <div className="flex flex-wrap justify-center md:space-x-16">
           {courseData.data.map(course => (
          
             <CardContainer  key={course.id} className="inter-var">
