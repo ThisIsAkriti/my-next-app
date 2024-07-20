@@ -31,10 +31,10 @@ function Featured() {
           <BackgroundGradient key={data.id} className='flex flex-col rounded-[22px] dark:bg-zinc-900 overflow-hidden h-full max-w-sm ' >
             <div className=' px-4 py-6 space-y-3'> 
               <h1 className='text-lg sm:text-xl text-black mb-2 dark:text-neutral-200'>{data.title}</h1>
-              <p className='text-sm text-neutral-600  dark:text-neutral-400 flex-grow'>{data.description}</p>
-              <p>${data.price}</p>
-              <p>{data.instructor}</p>
-              <p>{data.rating}</p>
+              <p className='text-sm text-neutral-400 flex-grow'>{data.description}</p>
+              <p className='text-sm text-neutral-400'>${data.price}</p>
+              <p  className='text-sm text-neutral-400'>{data.instructor}</p>
+              <p  className='text-sm text-neutral-400'>{data.rating}</p>
             </div>
           </BackgroundGradient>
           

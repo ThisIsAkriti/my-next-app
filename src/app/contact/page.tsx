@@ -4,7 +4,7 @@ import React from 'react'
 const page = () => {
  
   return (
-    <div className=' absolute mt-32'>
+    <div className=' absolute pt-32 bg-black text-white'>
       <div className=' absolute w-screen'>
       <Image 
       height="1000"
@@ -13,20 +13,20 @@ const page = () => {
       src="https://www.becomeio.com/wp-content/uploads/2021/12/muscular-man-and-woman-showing-muscles.jpeg" alt="contactUspage image" />
       </div>
       <div className=' font-bold relative text-center w-screen h-80 sm:h-[400px] md:h-[450px] flex flex-col justify-center items-center space-y-14  mb-4 '>
-        <h1 className='text-5xl text-gray-400'>
+        <h1 className='text-5xl text-gray-300'>
           NO PAIN NO GAIN
         </h1>
         
       </div>
-      <div className='flex items-center justify-center flex-col space-y-12 mb-40'>
-      <h2 className='text-4xl font-semibold border-t-2 dark:border-gray-300 w-full text-center pt-14' >
+      <div className='flex items-center justify-center flex-col space-y-12 mb-40 text-gray-300'>
+      <h2 className='text-4xl font-semibold w-full text-center pt-14' >
           Contact Us
         </h2>
-        <form className='ml-10 text-xl'>
-          <input className='p-4 rounded-md outline-none' type="text" placeholder='Input text'/>
-          <button className='border-black border active:bg-gray-700 p-4 rounded-md' >Send</button>
+        <form className='ml-10 text-xl space-x-2'>
+          <input className='md:p-4 p-2 rounded-md outline-none text-black bg-gray-400 shadow-gray-700 shadow-md border border-r-0' type="text" placeholder='Input text'/>
+          <button className='border-gray-400 shadow-gray-700 shadow-md border active:bg-gray-700 md:p-4 p-2 rounded-md text-gray-300' >Send</button>
         </form>
-        <div className='font-bold text-4xl'>
+        <div className='font-bold text-4xl text-gray-300'>
           Thanks For Visiting !
         </div>
         

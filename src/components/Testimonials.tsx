@@ -40,7 +40,7 @@ function Testimonials() {
   return (
     <div className="  dark:bg-black bg-white  dark:bg-dot-white/[0.2] bg-dot-black/[0.2] h-[40rem] w-full flex relative flex-col items-center justify-center overflow-hidden">
       <h2
-      className=" text-3xl font-bold mt-14 text-center z-10 mb-8"
+      className="text-3xl font-bold mt-14 text-center z-10 mb-8 text-gray-200"
       >See Testimonials: Strong Physique and Fitness</h2>
       <div>
         <div className=" flex flex-col antialiased bg-white dark:bg-black dark:bg-grid-white/[0.05] items-center justify-center relative px:4 sm:px-6 lg:px-8 overflow-hidden">

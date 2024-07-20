@@ -14,7 +14,7 @@ interface Data{
 function page() {
   return (
 
-    <div className="mt-40">
+    <div className="pt-40 bg-black">
        <BentoGrid className="max-w-4xl mx-auto">
             {dataCourse.data.map((course : Data ) => (
             <BentoGridItem
